@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo app</string>
+    <string name="recommended_movies">Recommended Movies</string>
+    <string name="recommended_movies_container">Recommended Movies Container</string>
+</resources>
